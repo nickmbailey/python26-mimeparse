@@ -1,21 +1,9 @@
---- a/copyright	1970-01-01 00:00:00.000000000 +0000
-+++ b/copyright	2010-12-23 19:59:48.000000000 +0000
-@@ -0,0 +1,35 @@
-+This work was packaged for by:
-+
-+  Nick Bailey <nick@riptano.com>
-+
-+It was downloaded from:
-+
-+<http://code.google.com/p/mimeparse/>
-+
-+Upstream Author(s):
-+
-+Joe Gregorio <joe@bitworking.org>
-+
+--- a/LICENSE	1970-01-01 00:00:00.000000000 +0000
++++ b/LICENSE	2010-12-23 21:36:08.000000000 +0000
+@@ -0,0 +1,23 @@
 +Copyright:
 +
-+Copyright (c) 2010 Joe Gregorio
++  Copyright (c) 2010 Joe Gregorio
 +
 +License:
 +
